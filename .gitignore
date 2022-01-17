@@ -1,0 +1,58 @@
+# Ignore file list
+
+## Specific files
+.DS_Store
+
+## General files
+*~
+~*
+\#*\#
+.$*$
+*.asv
+.~*
+.#*
+
+## Matlab files
+slprj/
+*.slxc
+
+## Windows files
+Thumbs.db
+
+## IPython files
+.ipynb_checkpoints/
+
+## OneNote files
+OneNote_RecycleBin/
+
+## LaTeX files
+*.pdf
+auto/
+*.synctex.gz
+*.bak
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.spl
+*.dvi
+*.lof
+*.lop
+*.lot
+*.toc
+*.idx
+*.ilg
+*.ind
+*.tdo
+*.bcf
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.bib.sav
+*.xdv
+*-cache.yaml
+*.synctex(busy)
+
+## Julia files 
+*.jld2
