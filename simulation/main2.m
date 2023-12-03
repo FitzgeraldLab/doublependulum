@@ -65,4 +65,5 @@ end
 
 %% Animation
 
-animate_doublePendulum(data{i}, p, 30);
+% animate_doublePendulum(data{i}, p, 30);
+animate_multiple_doublePendulum(data, p, 30);
